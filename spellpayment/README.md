@@ -1,0 +1,3 @@
+- Extract the folder in the archive to `<your PrestaShop installation folder>/modules/`
+- In PrestaShop admin, `Modules -> Module Catalog -> "Klix.app payments" -> Install`
+- To set the module up, `Modules -> Module Manager -> "Klix.app payments" -> Configure`
